@@ -8,8 +8,7 @@
   "license": "MIT",
   "author": "",
   "keywords": [
-    "ember-addon",
-    "ember-engines"
+    "ember-addon"
   ],
   "scripts": {
     "build": "DEBUG=* ember build",
