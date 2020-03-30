@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "The official website for Ember Engines",
-  "repository": "https://github.com/ember-engines/ember-engines.com",
+  "repository": {
+    "url": "https://github.com/ember-engines/ember-engines.com"
+  },
   "homepage": "ember-engines.com",
   "license": "MIT",
   "author": "",
